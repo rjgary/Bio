@@ -8,6 +8,9 @@ My goal is to attain a full-time role in investment banking/capital markets, ass
 
 Thank you for taking the time to read and explore my site, and I hope you'll contact me if you're interested in speaking with (or hiring) me!
 
+![RJG_signature](https://user-images.githubusercontent.com/65424057/82099027-3b478f00-96d4-11ea-8137-4c1abee71c04.png)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rjgary/Bio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
