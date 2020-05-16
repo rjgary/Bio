@@ -1,5 +1,3 @@
-<title>RJ Gary</title>
-
 ## Thank you for visiting my GitHub Page!
 
 Welcome! I'm assuming you came here either from my LinkedIn or my business card. For the time being, this will mainly be an additional venue to showcase my resume (both in French and English). That is because this site is a project I undertook with the goal of increasing my familiarity with GitHub, and I wanted to create something useful to me as a learning tool.
