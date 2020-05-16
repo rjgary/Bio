@@ -8,7 +8,7 @@ My goal is to attain a full-time role in investment banking/capital markets, ass
 
 Thank you for taking the time to read and explore my site, and I hope you'll contact me if you're interested in speaking with (or hiring) me!
 
-![RJG_signature](https://user-images.githubusercontent.com/65424057/82128695-00ecf900-978b-11ea-9a47-7a492d3297ea.png)
+![RJG_signature](https://user-images.githubusercontent.com/65424057/82128695-00ecf900-978b-11ea-9a47-7a492d3297ea.png){: .center-image}
 
 
 ## Welcome to GitHub Pages
